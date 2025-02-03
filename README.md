@@ -16,7 +16,7 @@
 
 #### One fun fact about yourself:
 
-> I run a MakerSpace at National Park College located in Hot Springs
+> I run a MakerSpace at National Park College located in Hot Springs. The MakerSpace is a great place for NPC students and members of the community to be creative and/or bring project ideas to life. The MakerSpace is multifaceted and has many tools and resources available to tackle most project ideas. 
 
 #### Submission Due Date:
 
