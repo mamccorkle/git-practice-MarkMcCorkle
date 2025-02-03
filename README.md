@@ -21,3 +21,18 @@
 #### Submission Due Date:
 
 > Source Due: **February 2, 2025**
+
+
+NOTES:
+
+> During this process, I have learned more about the fork process than the other items covered. Having another person review, fork, commit, and add a pull request was soemthing I have not done before and was an interesting process. I can see where one could have issues with large codebases if not careful.
+
+Links:
+
+	This repo: https://github.com/mamccorkle/git-practice-MarkMcCorkle
+	Contributor (me): https://github.com/mm-npc/git-practice-MarkMcCorkle
+	
+	Pull Requests:
+
+	1) https://github.com/mamccorkle/git-practice-MarkMcCorkle/pull/1
+	2) https://github.com/mamccorkle/git-practice-MarkMcCorkle/pull/2  
