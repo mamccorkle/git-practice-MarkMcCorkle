@@ -6,7 +6,7 @@
 
 > Mark McCorkle
 
-#### Favorite Programming Language:
+#### Favorite Programming Languages:
 
 > :one: C++ [<img src="C++.png">](https://cplusplus.com/)
 
